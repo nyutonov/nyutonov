@@ -33,7 +33,7 @@ In my GitHub repository, you'll find a collection of projects showcasing my Andr
 
 I am committed to staying at the forefront of technology. The dynamic nature of Android and Flutter development encourages me to be a perpetual learner, always eager to explore new frameworks, libraries, and design patterns.
 
-<h3 align="left"></h3>
+<h3 align="left">\n\n</h3>
 
 - 🔭 I’m currently working on **MaxWay Client App (Clone)**
 
