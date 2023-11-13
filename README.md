@@ -15,8 +15,7 @@ My journey into the world of Android development began with a curiosity to build
 
 - **API Integration**: Connecting apps to the wider digital ecosystem, ensuring they seamlessly interact with servers and services.
 
-<h3 align="left">Flutter Enthusiast 🦋</
-h3>
+<h3 align="left">Flutter Enthusiast 🦋</h3>
 
 Flutter captivated me with its promise of cross-platform development without compromising on performance or aesthetics. In my Flutter endeavors, I've embraced:
 
