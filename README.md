@@ -7,13 +7,13 @@
 
 My journey into the world of Android development began with a curiosity to build powerful and user-friendly mobile applications. Over the years, I've honed my skills in:
 
-Java and Kotlin: Leveraging the versatility of these languages to create robust and efficient Android applications.
+- **Java and Kotlin**: Leveraging the versatility of these languages to create robust and efficient Android applications.
 
-Android Studio: Navigating the intricacies of Android Studio, I enjoy turning concepts into tangible, feature-rich apps.
+- **Android Studio**: Navigating the intricacies of Android Studio, I enjoy turning concepts into tangible, feature-rich apps.
 
-UI/UX Design: A firm believer in the importance of aesthetics, I strive to create visually appealing and intuitive user interfaces.
+- **UI/UX Design**: A firm believer in the importance of aesthetics, I strive to create visually appealing and intuitive user interfaces.
 
-API Integration: Connecting apps to the wider digital ecosystem, ensuring they seamlessly interact with servers and services.
+- **API Integration**: Connecting apps to the wider digital ecosystem, ensuring they seamlessly interact with servers and services.
 
 - 🔭 I’m currently working on **MaxWay Client App (Clone)**
 
