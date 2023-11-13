@@ -15,7 +15,8 @@ My journey into the world of Android development began with a curiosity to build
 
 - **API Integration**: Connecting apps to the wider digital ecosystem, ensuring they seamlessly interact with servers and services.
 
-<h3 align="left">Flutter Enthusiast 🦋</h3>
+<h3 align="left">Flutter Enthusiast 🦋</
+h3>
 
 Flutter captivated me with its promise of cross-platform development without compromising on performance or aesthetics. In my Flutter endeavors, I've embraced:
 
@@ -24,14 +25,6 @@ Flutter captivated me with its promise of cross-platform development without com
 - **Widgets Galore**: Crafting beautiful UIs using Flutter's rich set of customizable widgets.
 
 - **Single Codebase**: Embracing the efficiency of maintaining a single codebase for both Android and iOS platforms.
-
-<h3 align="left">Projects and Beyond 🚀</h3>
-
-In my GitHub repository, you'll find a collection of projects showcasing my Android and Flutter skills. From innovative utility apps to intricate mobile solutions, each project tells a story of exploration and growth.
-
-<h3 align="left">Learning Never Ends 📚</h3>
-
-I am committed to staying at the forefront of technology. The dynamic nature of Android and Flutter development encourages me to be a perpetual learner, always eager to explore new frameworks, libraries, and design patterns.
 
 - 🔭 I’m currently working on **MaxWay Client App (Clone) and Mobile Banking App (Clone)**
 
