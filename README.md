@@ -70,4 +70,4 @@ I am committed to staying at the forefront of technology. The dynamic nature of 
 - **Problems Solved:** ![LeetCode Problems Solved](https://img.shields.io/badge/Problems%20Solved-250%2B-brightgreen)
 - **Languages Mastered:** ![LeetCode Languages](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20MySQL-blue)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nyutonov_787&hide_title=true&hide_border=true&langs_count=5&custom_title=Weekly Coding Activity)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nyutonov_787&layout=compact&hide_title=true&hide_border=true&langs_count=5)
