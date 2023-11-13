@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to nyutonov's GitHub Repository 🚀</h1>
+<h1 align
+="center">Welcome to nyutonov's GitHub Repository 🚀</h1>
 <h3 align="center">Hello there! I'm Shahriyor, an Android, Flutter developer on a mission to create delightful mobile experiences. Explore this space to find a trove of projects, code snippets, and a sprinkle of tech magic. ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyutonov&label=Profile%20views&color=0e75b6&style=flat" alt="nyutonov" /> </p>
@@ -24,6 +25,8 @@ Flutter captivated me with its promise of cross-platform development without com
 - **Widgets Galore**: Crafting beautiful UIs using Flutter's rich set of customizable widgets.
 
 - **Single Codebase**: Embracing the efficiency of maintaining a single codebase for both Android and iOS platforms.
+
+<b></b>
 
 - 🔭 I’m currently working on **MaxWay Client App (Clone) and Mobile Banking App (Clone)**
 
