@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyutonov&label=Profile%20views&color=0e75b6&style=flat" alt="nyutonov" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shahriy08847670" target="blank"><img src="https://img.shields.io/twitter/follow/shahriy08847670?logo=twitter&style=for-the-badge" alt="shahriy08847670" /></a> </p>
-
 - 🔭 I’m currently working on **MaxWay Client App (Clone)**
 
 - 🌱 I’m currently learning **new technologies in Android**
