@@ -30,5 +30,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyutonov&show_icons=true&locale=en&layout=compact" alt="nyutonov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyutonov&show_icons=true&locale=en" alt="nyutonov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyutonov&" alt="nyutonov" /></p>
