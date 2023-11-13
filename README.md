@@ -35,7 +35,7 @@ I am committed to staying at the forefront of technology. The dynamic nature of 
 
 <br>
 
-- 🔭 I’m currently working on **MaxWay Client App (Clone)**
+- 🔭 I’m currently working on **MaxWay Client App (Clone) and Mobile Banking App (Clone)**
 
 - 🌱 I’m currently learning **new technologies in Android**
 
