@@ -25,7 +25,8 @@ Flutter captivated me with its promise of cross-platform development without com
 
 - **Single Codebase**: Embracing the efficiency of maintaining a single codebase for both Android and iOS platforms.
 
-\n\n
+
+  
 
 Projects and Beyond 🚀
 In my GitHub repository, you'll find a collection of projects showcasing my Android and Flutter skills. From innovative utility apps to intricate mobile solutions, each project tells a story of exploration and growth.
