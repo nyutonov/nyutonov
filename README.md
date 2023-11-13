@@ -63,11 +63,11 @@ I am committed to staying at the forefront of technology. The dynamic nature of 
 
 ## 🚀 LeetCode Adventure
 
-https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nyutonov787/
+[![nyutonov787](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nyutonov787/)
 
 ### 🌟 My Achievements
 
 - **Problems Solved:** ![LeetCode Problems Solved](https://img.shields.io/badge/Problems%20Solved-250%2B-brightgreen)
 - **Languages Mastered:** ![LeetCode Languages](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20MySQL-blue)
 
-https://github-readme-stats.vercel.app/api/wakatime?username=nyutonov_787&hide_title=true&hide_border=true&langs_count=5&custom_title=Weekly Coding Activity
+![waka_4bc0ec4d-4133-4bc4-8f35-a12e533ff1df](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&hide_title=true&hide_border=true&langs_count=5&custom_title=Weekly Coding Activity)
