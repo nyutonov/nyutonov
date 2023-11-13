@@ -26,7 +26,7 @@ Flutter captivated me with its promise of cross-platform development without com
 
 - **Single Codebase**: Embracing the efficiency of maintaining a single codebase for both Android and iOS platforms.
 
-<b></b>
+<br>
 
 - 🔭 I’m currently working on **MaxWay Client App (Clone) and Mobile Banking App (Clone)**
 
