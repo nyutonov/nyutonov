@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to nyutonov's GitHub Repository 🚀</h1>
-<h3 align="center">Hello there! I'm Shahriyor, an Android and Flutter developer on a mission to create delightful mobile experiences. Explore this space to find a trove of projects, code snippets, and a sprinkle of tech magic. ✨</h3>
+<h3 align="center">Hello there! I'm Shahriyor, an Android, Flutter developer on a mission to create delightful mobile experiences. Explore this space to find a trove of projects, code snippets, and a sprinkle of tech magic. ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyutonov&label=Profile%20views&color=0e75b6&style=flat" alt="nyutonov" /> </p>
 
