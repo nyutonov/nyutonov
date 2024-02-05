@@ -39,7 +39,7 @@
 ### 🌟 My Achievements
 
 - **Problems Solved:** ![LeetCode Problems Solved](https://img.shields.io/badge/Problems%20Solved-250%2B-brightgreen)
-- **Languages Mastered:** ![LeetCode Languages](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20MySQL-blue)
+- **Languages Mastered:** ![LeetCode Languages](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20MySQL-blue%20%7C%20Dart%20%7C%20Kotlin)
 
 ## 🕒 Wakatime Stats
 
