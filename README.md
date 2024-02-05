@@ -6,9 +6,9 @@
 
 <h3 align="left">About me ⚡</h3>
 
-- 🔭 I’m currently working on **MaxWay Client App (Clone) and Mobile Banking App (Clone)**
+- 🔭 I’m currently working on **Real product apps**
 
-- 🌱 I’m currently learning **new technologies in Android**
+- 🌱 I’m currently learning **new technologies in Android and Flutter**
 
 - 💬 Ask me about **Android, Flutter**
 
