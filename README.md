@@ -4,28 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyutonov&label=Profile%20views&color=0e75b6&style=flat" alt="nyutonov" /> </p>
 
-<h3 align="left">Android Development Journey 🌐</h3>
-
-My journey into the world of Android development began with a curiosity to build powerful and user-friendly mobile applications. Over the years, I've honed my skills in:
-
-- **Java and Kotlin**: Leveraging the versatility of these languages to create robust and efficient Android applications.
-
-- **Android Studio**: Navigating the intricacies of Android Studio, I enjoy turning concepts into tangible, feature-rich apps.
-
-- **UI/UX Design**: A firm believer in the importance of aesthetics, I strive to create visually appealing and intuitive user interfaces.
-
-- **API Integration**: Connecting apps to the wider digital ecosystem, ensuring they seamlessly interact with servers and services.
-
-<h3 align="left">Flutter Enthusiast 🦋</h3>
-
-Flutter captivated me with its promise of cross-platform development without compromising on performance or aesthetics. In my Flutter endeavors, I've embraced:
-
-- **Dart Programming**: Harnessing the power of Dart to build reactive and expressive Flutter applications.
-
-- **Widgets Galore**: Crafting beautiful UIs using Flutter's rich set of customizable widgets.
-
-- **Single Codebase**: Embracing the efficiency of maintaining a single codebase for both Android and iOS platforms.
-
 <h3 align="left">About me ⚡</h3>
 
 - 🔭 I’m currently working on **MaxWay Client App (Clone) and Mobile Banking App (Clone)**
