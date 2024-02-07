@@ -20,8 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyutonov&show_icons=true&locale=en&layout=compact" alt="nyutonov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyutonov&show_icons=true&locale=en" alt="nyutonov" /></p>
-
 ## 🚀 LeetCode Adventure
 
 [![nyutonov787](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nyutonov787/)
