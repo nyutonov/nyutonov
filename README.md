@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **new technologies in Android and Flutter**
 
-- 💬 Ask me about **Android, Flutter**
-
 - 📫 How to reach me **shahriyor787@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
