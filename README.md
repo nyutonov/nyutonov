@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Real product apps**
 
-- 🌱 I’m currently learning **new technologies in Android and Flutter**
+- 🌱 I’m currently learning **new technologies in Flutter**
 
 - 📫 How to reach me **shahriyor787@gmail.com**
 
