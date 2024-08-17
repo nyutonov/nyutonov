@@ -22,7 +22,7 @@
 
 ## 🚀 LeetCode Adventure
 
-[![nyutonov787](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nyutonov787/)
+[![nyutonov_sh](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nyutonov_sh/)
 
 ### 🌟 My Achievements
 
