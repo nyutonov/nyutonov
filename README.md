@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/8c218957-b5ec-4a38-ad39-09d92eb2d9a3.svg)](https://wakatime.com/@8c218957-b5ec-4a38-ad39-09d92eb2d9a3)
+
 <h1 align
 ="center">Welcome to nyutonov's GitHub Repository 🚀</h1>
 <h3 align="center">Hello there! I'm Shahriyor, an Android, Flutter developer on a mission to create delightful mobile experiences. Explore this space to find a trove of projects, code snippets, and a sprinkle of tech magic. ✨</h3>
